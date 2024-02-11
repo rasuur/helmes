@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Helmes - Randel Suurkask</title>
+    <script src="index.js"></script>
+</head>
+<body>
+    <h1>Please enter your name and pick the Sectors you are currently involved in.</h1>
+    <form id="form">
+        <label>Name:</label>
+        <input id="name" type="text" placeholder="Full name" required>
+
+        <br />
+        <br />
+        <label>Sectors:</label>
+        <div id="sectors-div-0">
+            <select id="sectors-0" multiple size="3" required></select>
+        </div>
+
+        <br />
+        <br />
+        <input id="agreement" type="checkbox" required> Agree to terms
+
+        <br />
+        <br />
+        <input type="submit" value="Save">
+    </form>
+    <br />
+    <div id="toast"></div>
+</body>
+</html>

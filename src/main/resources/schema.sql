@@ -1,0 +1,1 @@
+CREATE INDEX idx_value_id ON SECTOR(value_id);
