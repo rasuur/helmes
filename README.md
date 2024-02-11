@@ -1,6 +1,6 @@
 Töö tehtud Helmese test ülesandeks.
 
-Tehtud backend-s spring boot-ga Java-s ja frontend-s javascript-ga ning päringud fetch API-ga.
+Tehtud backend-s spring boot-ga Java-s ja frontend-s javascript-ga ning päringud fetch API-ga. Millegi pärast tahtsin extra challengit kirjutades ilma frontend frameworkita. Muidu igapäevaselt töös kasutan Angulari. 
 
 Frontend asub src/main/resources/static kaustas.
 
